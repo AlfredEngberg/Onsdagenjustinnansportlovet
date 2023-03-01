@@ -1,0 +1,9 @@
+body {
+    color: #121212;
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+.container {
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+}
